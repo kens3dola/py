@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/FlapPyBird" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/pygame" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rpi_lcars" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flightless" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Natural-Selection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/YoutubeTutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/basicGameStart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pygame_tutorials" vcs="Git" />
   </component>
 </project>

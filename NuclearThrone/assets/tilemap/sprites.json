@@ -1,0 +1,22 @@
+{ "columns":32,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
+ "image":"spritesheet.png",
+ "imageheight":512,
+ "imagewidth":512,
+ "margin":0,
+ "name":"sprites",
+ "spacing":0,
+ "tilecount":1024,
+ "tiledversion":"1.4.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.4
+}

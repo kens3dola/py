@@ -1,7 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="555e200e-fbfc-4dbe-92eb-f23608ca694e" name="Default Changelist" comment="" />
+    <list default="true" id="907b7a3a-e0f8-4547-a125-59a41a6ebbad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/16x16 knight 1 v3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/16x16 knight 2 v3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/16x16 knight 3 v3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/16x16 knight 4 v3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/animation frames guide.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/sprites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/tilemap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/mob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/spritesheet/spritesheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/tilemap/spritesheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/tilemap/tiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_anime_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_axe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_baton_with_spikes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_big_hammer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_cleaver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_duel_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_golden_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_green_magic_staff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_hammer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_katana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_knife.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_knight_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_lavish_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_mace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_machete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_red_gem_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_red_magic_staff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_regular_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_rusty_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_saw_sword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_spear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuclearThrone/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/a.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlapPyBird" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shadow Tower Source/Shadow Tower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeTutorials/Menu System/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/YoutubeTutorials/Menu System/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeTutorials/spritesheet/spritesheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/YoutubeTutorials/spritesheet/spritesheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeTutorials/spritesheet/test_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/YoutubeTutorials/spritesheet/test_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_animations/idle/idle_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_animations/idle/idle_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_animations/idle/idle_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_animations/run/run_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_animations/run/run_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 12/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 12/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 20/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 20/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpi_lcars" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,41 +97,58 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rpi_lcars" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1j32KXo1J4GoiEapQreDRxaJ3gn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ChristianD37/Natural-Selection" />
+        <option value="https://github.com/ChristianD37/YoutubeTutorials" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jT84ygDVXGqpO9w6PZKoPsijzE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pygame/test.py" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Multimedia/img/Nature Platformer Tileset [16x16][FREE] - RottingPixels" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Reds\Desktop\a\Platformer" />
-      <recent name="C:\Users\Reds\Desktop\a\ThachSanh\entity" />
-      <recent name="C:\Users\Reds\Desktop\a\ThachSanh" />
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\maps" />
+      <recent name="C:\Users\Hyori\Desktop\py\NuclearThrone\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\img\Nature Platformer Tileset [16x16][FREE] - RottingPixels" />
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\maps" />
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\img" />
+      <recent name="C:\Users\Hyori\Desktop\py\NuclearThrone\assets\weapon" />
+      <recent name="C:\Users\Hyori\Desktop\py\NuclearThrone\assets\tilemap" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HelloWorld (1)">
-    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="a" />
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pygame" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multimedia" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pygame/App.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multimedia/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,19 +157,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HelloWorld (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="a" />
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Platformer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_tutorials/tilemap/part 03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Platformer/HelloWorld.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_tutorials/tilemap/part 03/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,19 +178,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="a" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ThachSanh" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_tutorials/tilemap/part 02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Reds\Desktop\a\Platformer\HelloWorld.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_tutorials/tilemap/part 02/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,19 +199,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="a" />
+    <configuration name="sprites" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Platformer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multimedia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Reds\Desktop\a\Platformer\HelloWorld.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multimedia/sprites.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,19 +220,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Shadow Tower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="a" />
+    <configuration name="tilemap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Shadow Tower Source" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multimedia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shadow Tower Source/Shadow Tower.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multimedia/tilemap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,104 +243,112 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HelloWorld (1)" />
-        <item itemvalue="Python.HelloWorld" />
-        <item itemvalue="Python.HelloWorld" />
-        <item itemvalue="Python.Shadow Tower" />
-        <item itemvalue="Python.App" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.tilemap" />
+        <item itemvalue="Python.sprites" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="555e200e-fbfc-4dbe-92eb-f23608ca694e" name="Default Changelist" comment="" />
-      <created>1603018394515</created>
+      <changelist id="907b7a3a-e0f8-4547-a125-59a41a6ebbad" name="Default Changelist" comment="" />
+      <created>1603816534757</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603018394515</updated>
+      <updated>1603816534757</updated>
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="443" y="0" key="#App" timestamp="1603019744036">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="433" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604981218370">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="443" y="0" key="#App/0.0.1536.824@0.0.1536.824" timestamp="1603019744036" />
-    <state x="261" y="0" key="#Notifications" timestamp="1603108422803">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="433" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1604981218370" />
+    <state x="496" y="113" key="FileChooserDialogImpl" timestamp="1604980586430">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="0" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1603108422803" />
-    <state x="223" y="16" width="1089" height="808" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603019707809">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="496" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604980586430" />
+    <state width="1509" height="107" key="GridCell.Tab.0.bottom" timestamp="1605505188889">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="223" y="16" width="1089" height="808" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603019707809" />
-    <state x="436" y="102" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603020645417">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1509" height="107" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605505188889" />
+    <state width="1509" height="107" key="GridCell.Tab.0.center" timestamp="1605505188889">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="436" y="102" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603020645417" />
-    <state x="499" y="113" key="FileChooserDialogImpl" timestamp="1603019849331">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1509" height="107" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605505188889" />
+    <state width="1509" height="107" key="GridCell.Tab.0.left" timestamp="1605505188889">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="499" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603019849331" />
-    <state width="1509" height="245" key="GridCell.Tab.0.bottom" timestamp="1603114068723">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1509" height="107" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605505188889" />
+    <state width="1509" height="107" key="GridCell.Tab.0.right" timestamp="1605505188889">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603114068723" />
-    <state width="1509" height="245" key="GridCell.Tab.0.center" timestamp="1603114068723">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1509" height="107" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605505188889" />
+    <state width="1536" height="310" key="GridCell.Tab.1.bottom" timestamp="1605347640025">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603114068723" />
-    <state width="1509" height="245" key="GridCell.Tab.0.left" timestamp="1603114068723">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1536" height="310" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605347640025" />
+    <state width="1536" height="310" key="GridCell.Tab.1.center" timestamp="1605347640025">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603114068723" />
-    <state width="1509" height="245" key="GridCell.Tab.0.right" timestamp="1603114068723">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1536" height="310" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1605347640025" />
+    <state width="1536" height="310" key="GridCell.Tab.1.left" timestamp="1605347640025">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603114068723" />
-    <state width="1509" height="245" key="GridCell.Tab.1.bottom" timestamp="1603114068723">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1536" height="310" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1605347640025" />
+    <state width="1536" height="310" key="GridCell.Tab.1.right" timestamp="1605347640025">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603114068723" />
-    <state width="1509" height="245" key="GridCell.Tab.1.center" timestamp="1603114068723">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1536" height="310" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1605347640025" />
+    <state x="70" y="0" key="SettingsEditor" timestamp="1604980726398">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603114068723" />
-    <state width="1509" height="245" key="GridCell.Tab.1.left" timestamp="1603114068723">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="70" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1604980726398" />
+    <state x="761" y="344" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1604026701899">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603114068723" />
-    <state width="1509" height="245" key="GridCell.Tab.1.right" timestamp="1603114068723">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="761" y="344" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/0.0.1536.834@0.0.1536.834" timestamp="1604026701899" />
+    <state x="546" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603987193224">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603114068723" />
-    <state x="149" y="0" key="SettingsEditor" timestamp="1603019756922">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="546" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1603987193224" />
+    <state x="0" y="0" width="714" height="834" key="find.popup" timestamp="1605323010403">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="149" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603019756922" />
-    <state x="236" y="90" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603034294920">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="0" y="0" width="714" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1605323010403" />
+    <state x="347" y="0" width="1009" height="1034" key="search.everywhere.popup" timestamp="1604980632101">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="236" y="90" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1603034294920" />
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1603100032092">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="283" y="0" width="968" height="1051" key="search.everywhere.popup.inPresentationMode" timestamp="1604026959203">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603100032092" />
+    <state x="283" y="0" width="968" height="1051" key="search.everywhere.popup.inPresentationMode/0.0.1536.834@0.0.1536.834" timestamp="1604026959203" />
+    <state x="347" y="0" width="1009" height="1034" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1604980632101" />
   </component>
   <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="(i*16,j*16)" language="Python" />
-        <watch expression="[e.x for e  in enemies]" language="Python" />
-        <watch expression="bullets" language="Python" />
-        <watch expression="true_bullet" language="Python" />
-        <watch expression="rico_bullet" language="Python" />
-        <watch expression="enemy.get_rect()" language="Python" />
-        <watch expression="bullet" language="Python" />
-      </configuration>
-    </watches-manager>
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/YoutubeTutorials/Camera System/player.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
