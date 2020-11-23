@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,69 +23,387 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="907b7a3a-e0f8-4547-a125-59a41a6ebbad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multimedia/img/16x16 knight 1 v3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multimedia/img/16x16 knight 2 v3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multimedia/img/16x16 knight 3 v3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multimedia/img/16x16 knight 4 v3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multimedia/img/animation frames guide.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multimedia/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multimedia/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multimedia/sprites.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multimedia/tilemap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/mob.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/spritesheet/spritesheet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/tilemap/spritesheet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/tilemap/tiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_anime_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_axe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_baton_with_spikes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_big_hammer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_cleaver.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_duel_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_golden_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_green_magic_staff.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_hammer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_katana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_knife.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_knight_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_lavish_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_mace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_machete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_red_gem_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_red_magic_staff.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_regular_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_rusty_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_saw_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/assets/weapon/weapon_spear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NuclearThrone/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/a.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_idle_anim_f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_idle_anim_f1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_idle_anim_f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_idle_anim_f3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_run_anim_f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_run_anim_f1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_run_anim_f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_run_anim_f3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/demo/sprites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack1/HeroKnight_Attack1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack1/HeroKnight_Attack1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack1/HeroKnight_Attack1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack1/HeroKnight_Attack1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack1/HeroKnight_Attack1_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack1/HeroKnight_Attack1_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack2/HeroKnight_Attack2_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack2/HeroKnight_Attack2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack2/HeroKnight_Attack2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack2/HeroKnight_Attack2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack2/HeroKnight_Attack2_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack2/HeroKnight_Attack2_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack3/HeroKnight_Attack3_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack3/HeroKnight_Attack3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack3/HeroKnight_Attack3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack3/HeroKnight_Attack3_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack3/HeroKnight_Attack3_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack3/HeroKnight_Attack3_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack3/HeroKnight_Attack3_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Attack3/HeroKnight_Attack3_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Block/HeroKnight_Block_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Block/HeroKnight_Block_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Block/HeroKnight_Block_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Block/HeroKnight_Block_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Block/HeroKnight_Block_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockIdle/HeroKnight_Block Idle_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockIdle/HeroKnight_Block Idle_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockIdle/HeroKnight_Block Idle_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockIdle/HeroKnight_Block Idle_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockIdle/HeroKnight_Block Idle_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockIdle/HeroKnight_Block Idle_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockIdle/HeroKnight_Block Idle_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockIdle/HeroKnight_Block Idle_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockNoEffect/HeroKnight_BlockNoEffect_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockNoEffect/HeroKnight_BlockNoEffect_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockNoEffect/HeroKnight_BlockNoEffect_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockNoEffect/HeroKnight_BlockNoEffect_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/BlockNoEffect/HeroKnight_BlockNoEffect_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Death/HeroKnight_Death_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/DeathNoBlood/HeroKnight_DeathNoBlood_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Fall/HeroKnight_Fall_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Fall/HeroKnight_Fall_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Fall/HeroKnight_Fall_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Fall/HeroKnight_Fall_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Hurt/HeroKnight_Hurt_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Hurt/HeroKnight_Hurt_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Hurt/HeroKnight_Hurt_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Idle/HeroKnight_Idle_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Idle/HeroKnight_Idle_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Idle/HeroKnight_Idle_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Idle/HeroKnight_Idle_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Idle/HeroKnight_Idle_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Idle/HeroKnight_Idle_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Idle/HeroKnight_Idle_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Idle/HeroKnight_Idle_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Jump/HeroKnight_Jump_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Jump/HeroKnight_Jump_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Jump/HeroKnight_Jump_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/LedgeGrab/HeroKnight_Grab Ledge_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/LedgeGrab/HeroKnight_Grab Ledge_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/LedgeGrab/HeroKnight_Grab Ledge_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/LedgeGrab/HeroKnight_Grab Ledge_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/LedgeGrab/HeroKnight_Grab Ledge_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Roll/HeroKnight_Roll_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Roll/HeroKnight_Roll_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Roll/HeroKnight_Roll_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Roll/HeroKnight_Roll_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Roll/HeroKnight_Roll_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Roll/HeroKnight_Roll_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Roll/HeroKnight_Roll_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Roll/HeroKnight_Roll_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Roll/HeroKnight_Roll_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/Run/HeroKnight_Run_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/WallSlide/HeroKnight_Slide_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/WallSlide/HeroKnight_Slide_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/WallSlide/HeroKnight_Slide_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/WallSlide/HeroKnight_Slide_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/HeroKnight/WallSlide/HeroKnight_Slide_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/item/coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multimedia/img/item/diamond.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlapPyBird" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platformer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shadow Tower Source/Shadow Tower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/16x16 knight 1 v3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/16x16 knight 2 v3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/16x16 knight 3 v3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/16x16 knight 4 v3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/animation frames guide.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/tileset/RottingPixels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/tileset/screenshot-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/tileset/screenshot-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/tileset/tileset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/img/tileset/tileset1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multimedia/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/maps/16x16 knight 4 v3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/maps/as.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/maps/map.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/Multimedia/maps/map.tmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/maps/map1.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/maps/player.json" beforeDir="false" afterPath="$PROJECT_DIR$/Multimedia/maps/player.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multimedia/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multimedia/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multimedia/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multimedia/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/Clean-Full-Retro-Line-Tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile028.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile031.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile032.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile033.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile034.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile036.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile037.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile039.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile042.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile044.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile045.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile046.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile047.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile049.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile051.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile052.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile053.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile054.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile055.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile056.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile057.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile058.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile059.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile061.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile062.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile063.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile064.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile065.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile066.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile067.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile068.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile071.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile073.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile074.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile075.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile076.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile077.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile078.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile079.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile081.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile082.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile083.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile084.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile085.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile086.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile087.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile088.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile089.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile090.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile091.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile092.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile093.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile094.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile095.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile096.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile097.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile098.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile099.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile102.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile106.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile107.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile108.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile109.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile113.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile117.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile118.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile121.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile126.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile129.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile131.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile132.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile133.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile134.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile135.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile137.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile138.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile139.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile141.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile142.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile143.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile145.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile148.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile149.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile151.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/enemy/tile153.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile028.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile031.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile032.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile033.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Platformer/assets/player/tile034.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Whirling Blades Python 3.x Source/WhirlingBlades.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/Whirling Blades Python 3.x Source/WhirlingBlades.pyw" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/YoutubeTutorials/Menu System/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/YoutubeTutorials/Menu System/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/YoutubeTutorials/spritesheet/spritesheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/YoutubeTutorials/spritesheet/spritesheet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/YoutubeTutorials/spritesheet/test_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/YoutubeTutorials/spritesheet/test_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dirt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_animations/idle/idle_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_animations/idle/idle_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_animations/idle/idle_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_animations/run/run_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_animations/run/run_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygame" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicGameStart/Movement_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicGameStart/Movement_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 06/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 06/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 07/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 07/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 08/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 08/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 08/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 08/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 09/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 09/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 09/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 09/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 10/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 10/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 10/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 10/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 12/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 12/sprites.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 12/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 12/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 13/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 13/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 13/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 13/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 13/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 13/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 14/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 14/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 14/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 14/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 14/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 14/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 15/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 15/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 15/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 15/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 15/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 15/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 16/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 16/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 16/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 16/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 16/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 16/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 17/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 17/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 17/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 17/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 17/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 17/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 18/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 18/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 18/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 18/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 18/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 18/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 19/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 19/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 19/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 19/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 19/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 19/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 20/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 20/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 20/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 20/sprites.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 20/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 20/tilemap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpi_lcars" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 21/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 21/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 21/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 21/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 21/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 21/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 22/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 22/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 22/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 22/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 22/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 22/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 23/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 23/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 23/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 23/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 23/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/part 23/tilemap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/working/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/working/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/working/sprites.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/working/sprites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygame_tutorials/tilemap/working/tilemap.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygame_tutorials/tilemap/working/tilemap.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,23 +440,66 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Multimedia/img/Nature Platformer Tileset [16x16][FREE] - RottingPixels" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Multimedia" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\img" />
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia - Copy\img" />
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\img\item" />
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\demo" />
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\demo\i" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\img" />
       <recent name="C:\Users\Hyori\Desktop\py\Multimedia\maps" />
       <recent name="C:\Users\Hyori\Desktop\py\NuclearThrone\assets" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\img\Nature Platformer Tileset [16x16][FREE] - RottingPixels" />
-      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\maps" />
-      <recent name="C:\Users\Hyori\Desktop\py\Multimedia\img" />
-      <recent name="C:\Users\Hyori\Desktop\py\NuclearThrone\assets\weapon" />
-      <recent name="C:\Users\Hyori\Desktop\py\NuclearThrone\assets\tilemap" />
-    </key>
   </component>
   <component name="RunManager" selected="Python.main (1)">
+    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Platformer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Platformer/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WhirlingBlades.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Whirling Blades Python 3.x Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Whirling Blades Python 3.x Source/WhirlingBlades.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,7 +521,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +529,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_tutorials/tilemap/part 03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multimedia/demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_tutorials/tilemap/part 03/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multimedia/demo/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,53 +550,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pygame_tutorials/tilemap/part 02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multimedia - Copy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame_tutorials/tilemap/part 02/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sprites" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multimedia" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multimedia/sprites.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tilemap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multimedia" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multimedia/tilemap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multimedia - Copy/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,10 +566,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.tilemap" />
-        <item itemvalue="Python.sprites" />
-        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.HelloWorld" />
+        <item itemvalue="Python.WhirlingBlades.pyw" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -275,50 +597,58 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="433" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604981218370">
+    <state x="261" y="0" key="#Plugins" timestamp="1605973779350">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="433" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1604981218370" />
-    <state x="496" y="113" key="FileChooserDialogImpl" timestamp="1604980586430">
+    <state x="261" y="0" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1605973779350" />
+    <state x="433" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606084180641">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="496" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604980586430" />
-    <state width="1509" height="107" key="GridCell.Tab.0.bottom" timestamp="1605505188889">
+    <state x="433" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1606084180641" />
+    <state x="100" y="100" width="1336" height="664" key="DiffContextDialog" timestamp="1605976242931">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="107" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605505188889" />
-    <state width="1509" height="107" key="GridCell.Tab.0.center" timestamp="1605505188889">
+    <state x="100" y="100" width="1336" height="664" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1605976242931" />
+    <state x="496" y="113" key="FileChooserDialogImpl" timestamp="1606099389582">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="107" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605505188889" />
-    <state width="1509" height="107" key="GridCell.Tab.0.left" timestamp="1605505188889">
+    <state x="496" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1606099389582" />
+    <state width="1509" height="166" key="GridCell.Tab.0.bottom" timestamp="1606100833942">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="107" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605505188889" />
-    <state width="1509" height="107" key="GridCell.Tab.0.right" timestamp="1605505188889">
+    <state width="1509" height="166" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606100833942" />
+    <state width="1509" height="166" key="GridCell.Tab.0.center" timestamp="1606100833942">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1509" height="107" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605505188889" />
-    <state width="1536" height="310" key="GridCell.Tab.1.bottom" timestamp="1605347640025">
+    <state width="1509" height="166" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1606100833942" />
+    <state width="1509" height="166" key="GridCell.Tab.0.left" timestamp="1606100833942">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1536" height="310" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605347640025" />
-    <state width="1536" height="310" key="GridCell.Tab.1.center" timestamp="1605347640025">
+    <state width="1509" height="166" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1606100833942" />
+    <state width="1509" height="166" key="GridCell.Tab.0.right" timestamp="1606100833942">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1536" height="310" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1605347640025" />
-    <state width="1536" height="310" key="GridCell.Tab.1.left" timestamp="1605347640025">
+    <state width="1509" height="166" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1606100833942" />
+    <state width="1509" height="292" key="GridCell.Tab.1.bottom" timestamp="1606053199562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1536" height="310" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1605347640025" />
-    <state width="1536" height="310" key="GridCell.Tab.1.right" timestamp="1605347640025">
+    <state width="1509" height="292" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606053199562" />
+    <state width="1509" height="292" key="GridCell.Tab.1.center" timestamp="1606053199562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1536" height="310" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1605347640025" />
-    <state x="70" y="0" key="SettingsEditor" timestamp="1604980726398">
+    <state width="1509" height="292" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1606053199562" />
+    <state width="1509" height="292" key="GridCell.Tab.1.left" timestamp="1606053199562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="70" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1604980726398" />
+    <state width="1509" height="292" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1606053199562" />
+    <state width="1509" height="292" key="GridCell.Tab.1.right" timestamp="1606053199562">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1509" height="292" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1606053199562" />
+    <state x="70" y="0" key="SettingsEditor" timestamp="1606012131269">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="70" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1606012131269" />
     <state x="761" y="344" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1604026701899">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -331,14 +661,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="0" width="714" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1605323010403" />
-    <state x="347" y="0" width="1009" height="1034" key="search.everywhere.popup" timestamp="1604980632101">
+    <state x="347" y="0" width="1009" height="1034" key="search.everywhere.popup" timestamp="1606012386339">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="283" y="0" width="968" height="1051" key="search.everywhere.popup.inPresentationMode" timestamp="1604026959203">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="283" y="0" width="968" height="1051" key="search.everywhere.popup.inPresentationMode/0.0.1536.834@0.0.1536.834" timestamp="1604026959203" />
-    <state x="347" y="0" width="1009" height="1034" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1604980632101" />
+    <state x="347" y="0" width="1009" height="1034" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1606012386339" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -350,5 +680,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="sprite_center[0] / self.game.map.width, (sprite_center[1] + 10) / self.game.map.height" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

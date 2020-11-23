@@ -4,13 +4,19 @@ DARK_GREY = (40, 40, 40)
 LIGHT_GREY = (100, 100, 100)
 GREEN = (0, 255, 0)
 RED = (255, 0, 0)
-WIDTH = 640
+WIDTH = 480
 YELLOW = (255, 255, 0)
 
-HEIGHT = 480
+HEIGHT = 320
 FPS = 60
 TITLE = "MULTIMEDIA"
 
 TILE_SIZE = 32
 GRID_WIDTH = 640/32
 GRID_HEIGHT = 480/32
+
+MINIMAP_POS = int(WIDTH*0.8)
+
+Items = {'coin', 'diamond'}
+
+BULLET_IMG = 'img/bullet.png'
