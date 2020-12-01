@@ -1,5 +1,5 @@
-from Multimedia.tilemap import *
-
+from tilemap import *
+import pygame as pg
 
 class Boss(pg.sprite.Sprite):
     def __init__(self, game, x, y):

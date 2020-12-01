@@ -1,5 +1,5 @@
 import pygame as pg
-from Multimedia.settings import *
+from settings import *
 import pytmx
 import json, math, os
 

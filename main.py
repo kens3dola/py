@@ -1,9 +1,9 @@
 import pygame as pg
 import sys
-from Multimedia.sprites import *
-from Multimedia.settings import *
-from Multimedia.tilemap import *
-from Multimedia.scenes import *
+from sprites import *
+from settings import *
+from tilemap import *
+from scenes import *
 import random
 
 

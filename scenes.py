@@ -1,6 +1,6 @@
 import pygame
 from pygame import *
-from Multimedia.settings import *
+from settings import *
 
 
 class TitleScene(object):
