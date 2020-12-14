@@ -24,258 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="907b7a3a-e0f8-4547-a125-59a41a6ebbad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_idle_anim_f0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_idle_anim_f1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_idle_anim_f2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_idle_anim_f3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_run_anim_f0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_run_anim_f1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_run_anim_f2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/i/big_demon_run_anim_f3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/demo/sprites.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile036.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile044.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile049.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile050.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile051.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile052.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile055.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile056.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Attack/tile057.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Combo/tile029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Idle/tile017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Walk/tile000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Walk/tile001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Walk/tile002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Walk/tile003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Walk/tile004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Walk/tile005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Walk/tile006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/King/Walk/tile007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/Tileset.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/auto_bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/boss_attack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/boss_combo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Attack/tile031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Attack/tile032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Attack/tile033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Hurt/tile040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Hurt/tile041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Idle/tile028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Idle/tile029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Run/tile031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Run/tile032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Chick/Run/tile033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Attack/tile134.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Attack/tile135.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Hurt/tile138.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Hurt/tile139.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Idle/tile126.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Idle/tile127.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Run/tile129.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Run/tile130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Run/tile131.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Corp/Run/tile132.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Attack/tile087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Attack/tile088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Attack/tile089.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Attack/tile090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Hurt/tile096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Hurt/tile097.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Idle/tile084.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Run/tile087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Run/tile088.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Run/tile089.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Eye/Run/tile090.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Attack/tile059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Attack/tile060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Attack/tile061.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Attack/tile062.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Hurt/tile068.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Hurt/tile069.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Idle/tile059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Idle/tile060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Idle/tile061.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Idle/tile062.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Run/tile059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Run/tile060.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Run/tile061.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Fly/Run/tile062.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Attack/tile045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Attack/tile046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Attack/tile047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Attack/tile048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Hurt/tile054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Hurt/tile055.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Idle/tile045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Idle/tile046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Idle/tile047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Idle/tile048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Run/tile045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Run/tile046.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Run/tile047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Jell/Run/tile048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Attack/tile122.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Hurt/tile124.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Hurt/tile125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Idle/tile115.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Idle/tile116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Idle/tile117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Idle/tile118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Run/tile115.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Run/tile116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Run/tile117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mosq/Run/tile118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Attack/tile106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Attack/tile107.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Attack/tile108.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Hurt/tile110.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Hurt/tile111.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Idle/tile098.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Run/tile101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Run/tile102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Run/tile103.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Mush/Run/tile104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Attack/tile073.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Attack/tile074.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Attack/tile075.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Attack/tile076.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Hurt/tile082.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Hurt/tile083.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Idle/tile070.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Run/tile073.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Run/tile074.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Run/tile075.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/enemy/Snake/Run/tile076.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/font.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Attack/tile014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Attack/tile015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Hurt/tile028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Idle/tile007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Idle/tile008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Jump/tile021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Jump/tile022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Run/tile000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Run/tile001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Run/tile002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/player/Run/tile003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/spr_King2Combo_strip_no_bkg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/spr_KingDeath_strip_no_bkg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/spr_KingIdle_strip_no_bkg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/spr_KingTeleport_strip_no_bkg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/img/spr_KingWalk_strip_no_bkg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/maps/map.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/maps/mi.tmx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/scenes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/sound/background.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/sound/death.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/sound/end_game.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/sound/explosion.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/sound/jump.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/sound/shoot.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/sound/walk.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/sprites.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multimedia/tilemap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps/mi.tmx" beforeDir="false" afterPath="$PROJECT_DIR$/maps/mi.tmx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -329,7 +78,7 @@
       <recent name="C:\Users\Hyori\Desktop\py\NuclearThrone\assets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -343,27 +92,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Platformer/HelloWorld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="WhirlingBlades.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Whirling Blades Python 3.x Source" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Whirling Blades Python 3.x Source/WhirlingBlades.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,6 +142,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multimedia/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multimedia/demo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -437,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.HelloWorld" />
-        <item itemvalue="Python.WhirlingBlades.pyw" />
       </list>
     </recent_temporary>
   </component>
@@ -489,22 +238,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="496" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1606099389582" />
-    <state width="1509" height="119" key="GridCell.Tab.0.bottom" timestamp="1606814538365">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1509" height="125" key="GridCell.Tab.0.bottom" timestamp="1607583764355">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1509" height="119" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606814538365" />
-    <state width="1509" height="119" key="GridCell.Tab.0.center" timestamp="1606814538365">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1509" height="125" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607583764355" />
+    <state width="1509" height="125" key="GridCell.Tab.0.center" timestamp="1607583764355">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1509" height="119" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1606814538365" />
-    <state width="1509" height="119" key="GridCell.Tab.0.left" timestamp="1606814538365">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1509" height="125" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607583764355" />
+    <state width="1509" height="125" key="GridCell.Tab.0.left" timestamp="1607583764355">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1509" height="119" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1606814538365" />
-    <state width="1509" height="119" key="GridCell.Tab.0.right" timestamp="1606814538365">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1509" height="125" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607583764355" />
+    <state width="1509" height="125" key="GridCell.Tab.0.right" timestamp="1607583764355">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1509" height="119" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1606814538365" />
+    <state width="1509" height="125" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607583764355" />
     <state width="1509" height="292" key="GridCell.Tab.1.bottom" timestamp="1606565380173">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
