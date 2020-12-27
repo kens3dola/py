@@ -13,9 +13,9 @@ class Boss(pg.sprite.Sprite):
         self.anim.update(self.action, self.side)
         self.rect = self.image.get_rect()
         self.rect.topleft = (x, y)
-        self.health_point = 1000
+        self.health_point = BOSS_HP
         self.gap = 35
-        self.max_hp = 1000
+        self.max_hp = BOSS_HP
         self.health_bar = HealthBar(self, 24, 4)
         self.gravity = 0
         self.attack_timer = pg.time.get_ticks()
@@ -117,15 +117,27 @@ class Player(pg.sprite.Sprite):
         self.air_timer = 0
         self.hit_timer = 0
         self.U, self.D, self.L, self.R, self.fire = False, False, False, False, False
-        self.health_point = 100
+        self.health_point = PLAYER_HP
         self.hit = None
         self.get_hit = False
         self.gap = 24
-        self.max_hp = 100
+        self.max_hp = PLAYER_HP
         self.health_bar = HealthBar(self, 24, 4)
         self.num_1, self.num_2, self.num_3 = True, False, False
+        self.level = 0
+        self.level_exp = 0
+        self.exp_per_level = 15
+        self.fire_speed = FIRE_SPEED
+        self.fire_speed_decrease_per_level = 50
 
     def update(self):
+        if self.level_exp>= self.exp_per_level:
+            self.level+=1
+            self.fire_speed -= self.fire_speed_decrease_per_level
+            self.fire_speed_decrease_per_level //1.5
+            FloatingText(self.game, self.rect.center[0], self.rect.center[1], YELLOW, FLOAT_TEXT_SIZE, 'level up')
+            self.exp_per_level *= 2
+            self.level_exp = 0
         self.health_bar.update()
         if not self.health_point <= 0:
             if self.flying:
@@ -152,7 +164,7 @@ class Player(pg.sprite.Sprite):
                 FloatingText(self.game, self.rect.center[0], self.rect.center[1], WHITE, FLOAT_TEXT_SIZE, '-10')
                 self.action = 'Hurt'
             if self.fire and not self.D:
-                if pg.time.get_ticks() - self.hit_timer > 300:
+                if pg.time.get_ticks() - self.hit_timer > self.fire_speed:
                     self.hit_timer = pg.time.get_ticks()
                     Bullet(self.game, self.rect.x, self.rect.y, self.side)
                     self.game.sounds['shoot.wav'].play()
@@ -262,13 +274,16 @@ class Mob(pg.sprite.Sprite):
         self.game_rect = pg.Rect(0, 0, WIDTH, HEIGHT)
 
     def update(self):
-        if pg.time.get_ticks() - self.auto_bullet > 4000:
+        display_rect = self.game.camera.apply(self)
+        display_rect_player = self.game.camera.apply(self.game.player)
+        distane_to_player = abs(display_rect.center[0]-display_rect_player.center[1])
+        if pg.time.get_ticks() - self.auto_bullet > 4000 and distane_to_player<=WIDTH*2:
             AutoBullet(self.game, self.rect.x, self.rect.y, self.game.player.rect.center)
             self.auto_bullet = pg.time.get_ticks()
-        if self.game.camera.apply(self).colliderect(self.game_rect):
+        if display_rect.colliderect(self.game_rect):
             self.health_bar.update()
-            center = self.game.camera.apply(self).center
-            player_center = self.game.camera.apply(self.game.player).center
+            center = display_rect.center
+            player_center = display_rect_player.center
             vertical_distance = abs(center[1] - player_center[1])
             self_to_player = math.hypot(player_center[0] - center[0], player_center[1] - center[1])
             movement = 0
@@ -300,10 +315,12 @@ class Mob(pg.sprite.Sprite):
                 self.get_hit = False
                 self.health_point -= 25
                 self.game.sounds['explosion.wav'].play()
-                FloatingText(self.game, self.rect.center[0], self.rect.center[1], WHITE, FLOAT_TEXT_SIZE, '-25')
+                FloatingText(self.game, self.rect.center[0], self.rect.center[1], RED, FLOAT_TEXT_SIZE, '-25')
                 self.action = 'Hurt'
             if self.health_point == 0:
+                self.game.player.level_exp += 5
                 self.game.player.health_point += 10
+                FloatingText(self.game, self.game.player.rect.center[0], self.game.player.rect.center[1], GREEN, FLOAT_TEXT_SIZE, '+10')
                 if self.game.player.health_point >100:
                     self.game.player.max_hp = self.game.player.health_point
                 self.kill()

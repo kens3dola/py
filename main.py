@@ -100,8 +100,6 @@ class Game:
         for sprite in self.sprites:
             self.screen.blit(sprite.image, self.camera.apply(sprite))
             self.screen.blit(sprite.health_bar.image, self.camera.apply_rect(sprite.health_bar.rect))
-        # for sprite in self.items:
-        #     self.screen.blit(sprite.image, self.camera.apply(sprite))
         for bullet in self.bullets:
             self.screen.blit(bullet.image, self.camera.apply(bullet))
         for text in self.floating_text:
@@ -117,22 +115,27 @@ class Game:
         # draw minimap
         self.screen.blit(self.minimap.image, (MINIMAP_POS, 10))
 
+
         if self.paused:
             self.sounds['background.wav'].stop()
             self.screen.blit(self.pause_screen, (0, 0))
             if self.player.health_point <= 0:
                 self.sounds['end_game.wav'].play()
                 self.sounds['end_game.wav'].stop()
-                self.draw_text('Game over', 50, RED, WIDTH // 2, HEIGHT // 2)
+                self.draw_text('Game over', False, 50, RED, WIDTH // 2, HEIGHT // 2)
+                self.draw_text('>press P to start new game<', True, 10, WHITE, WIDTH // 2, HEIGHT // 1.5)
             else:
                 self.menu.render(self.screen)
+        else:
+            self.draw_text('HP: '+ str(self.player.health_point), True, 8, WHITE, 20, HEIGHT -15)
+            self.draw_text('LV: '+ str(self.player.level), True, 8, WHITE, 15, HEIGHT -5)
 
         self.display.blit(pg.transform.scale(self.screen, (int(WIDTH * SCALE), int(HEIGHT * SCALE))), (0, 0))
         pg.display.update()
 
-    def draw_text(self, text, size, color, x, y):
+    def draw_text(self, text, alias, size, color, x, y):
         font = pg.font.Font(FONT, size)
-        text_surface = font.render(text, False, color)
+        text_surface = font.render(text, alias, color)
         text_rect = text_surface.get_rect()
         text_rect.midtop = (x, y - size)
         self.screen.blit(text_surface, text_rect)
