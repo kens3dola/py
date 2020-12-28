@@ -20,8 +20,7 @@ class Boss(pg.sprite.Sprite):
         self.gravity = 0
         self.attack_timer = pg.time.get_ticks()
         self.combo_timer = pg.time.get_ticks()
-        self.debug = False
-        self.get_hit = False
+        self.debug, self.get_hit, self.is_attack, self.is_combo = False, False, False, False
 
     def update(self):
         self.health_bar.update()
@@ -40,21 +39,26 @@ class Boss(pg.sprite.Sprite):
         movement = self.check_collision(movement)
         if movement > 0:
             self.action = 'Walk'
-            self.side = 'right'
         elif movement < 0:
             self.action = 'Walk'
-            self.side = 'left'
         else:
             self.action = 'Idle'
-        if -BOSS_ATK_RANGE <= distance <= BOSS_ATK_RANGE and self.anim.action not in ['Attack', 'Combo']:
+        if self.anim.action not in ['Attack']:    
+            if distance>=0:
+                self.side = 'right'
+            else:
+                self.side = 'left'
+        if -BOSS_ATK_RANGE <= distance <= BOSS_ATK_RANGE and not self.is_attack and not self.is_combo:
             if pg.time.get_ticks() - self.attack_timer > 3000:
                 self.action = 'Attack'
                 self.attack_timer = pg.time.get_ticks()
+                self.is_attack =  True
                 BossAttack(self, self.side)
-        if not self.anim.action == 'Attack':
+        if not self.is_attack:
             if pg.time.get_ticks() - self.combo_timer > 10000:
                 self.action = 'Combo'
                 self.combo_timer = pg.time.get_ticks()
+                self.is_combo = True
                 BossCombo(self)
         if self.anim.action in ['Block', 'Hurt', 'Death', 'Attack', 'Attack2', 'Attack3', 'Combo']:
             movement = 0
@@ -97,6 +101,10 @@ class Boss(pg.sprite.Sprite):
         rect.center = self.rect.center
         rect.y -= 11
         return rect
+
+    def is_near_actor(self):
+        r = self.get_collision()
+        return self.game.player.rect.center[0] in range(r.x-16, r.x+r.width+32)
 
 
 class Player(pg.sprite.Sprite):
@@ -528,12 +536,14 @@ class BossCombo(pg.sprite.Sprite):
         self.delay = 0
 
     def update(self):
+        self.entity.attack_timer = pg.time.get_ticks()
         if self.timer is not None:
             if self.rect.colliderect(self.game.player.rect):
                 if pg.time.get_ticks() - self.delay > 250:
                     self.game.player.get_hit = True
                     self.delay = pg.time.get_ticks()
             if pg.time.get_ticks() - self.timer > 150:
+                self.entity.is_combo = False
                 self.kill()
         if self.entity.anim.frame >= len(self.entity.anim.animation[self.entity.anim.action]) // 1.5:
             self.image = self.img
@@ -570,11 +580,12 @@ class BossAttack(pg.sprite.Sprite):
 
     def update(self):
         if self.timer is not None:
-            if self.rect.colliderect(self.game.player.rect):
+            if self.rect.colliderect(self.game.player.rect) or self.entity.is_near_actor():
                 if pg.time.get_ticks() - self.delay > 250:
                     self.game.player.get_hit = True
                     self.delay = pg.time.get_ticks()
             if pg.time.get_ticks() - self.timer > 250:
+                self.entity.is_attack =False
                 self.kill()
         if self.entity.anim.frame >= len(self.entity.anim.animation[self.entity.anim.action]) // 1.5:
             self.image = self.img

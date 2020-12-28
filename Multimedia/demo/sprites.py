@@ -32,18 +32,17 @@ class Player(pg.sprite.Sprite):
             self.movement[0] = 5
         if self.U:
             self.g -= 2
-        # if self.D:
-        #     self.movement[1] = 5
-        # self.movement[1] = self.y_vel
-        if self.g <5:
-            self.g += 0.2
-        self.movement[1] = self.g
+        if self.D:
+            self.movement[1] = 5
+        self.movement[1] = self.y_vel
+        # if self.g <5:
+        #     self.g += 0.2
+        # self.movement[1] = self.g
 
         self.movement = self.check_collision(self.movement)
         self.rect.x += self.movement[0]
         self.rect.y += self.movement[1]
 
-        # animation
         # if pg.time.get_ticks() - self.last_time > 150:
         #     self.frame += 1
         #     self.frame = self.frame % len(self.imgs)
